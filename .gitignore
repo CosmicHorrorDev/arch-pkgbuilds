@@ -2,7 +2,7 @@
 *tar.gz
 *tar.zst
 pkg
-src
+/cargo-chef/src
 /inlyne/inlyne
 *log
 target
