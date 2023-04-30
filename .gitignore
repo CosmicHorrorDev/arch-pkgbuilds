@@ -1,8 +1,9 @@
-# Build artifacts
+# TODO: this whole thing is a mess
 *tar.gz
 *tar.zst
 pkg
 /cargo-chef/src
+/inlyne/src
 /inlyne/inlyne
 *log
 target
