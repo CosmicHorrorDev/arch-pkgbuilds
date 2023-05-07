@@ -17,7 +17,7 @@ functionality beyond just running the test suite.
 - [`cargo-chef`](https://aur.archlinux.org/packages/cargo-chef) - Cargo plugin for managing docker layer caching with Rust projects
 - [`cargo-deadlinks`](https://aur.archlinux.org/packages/cargo-deadlinks) - Cargo plugin for checking your documentation for broken links
 - [`cargo-insta`](https://aur.archlinux.org/packages/cargo-insta) - Cargo plugin for the [`insta`](https://github.com/mitsuhiko/insta) snapshot testing library
-- [`inlyne`](https::/aur.archlinux.org/packages/inlyne) - A GPU powered, browserless, markdown viewer
+- [`inlyne`](https://aur.archlinux.org/packages/inlyne) and [`inlyne-bin`](https://aur.archlinux.org/packages/inlyne-bin) - A GPU powered, browserless, markdown viewer
 - [`to-html`](https://github.com/Aloso/to-html) - Convert terminal commands to formatted HTML
 
 ## Previously Maintained
