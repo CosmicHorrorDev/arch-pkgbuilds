@@ -6,5 +6,6 @@ pkg
 /inlyne/src
 /inlyne/inlyne
 /inlyne-bin/src
+/regex-cli/src
 *log
 target
