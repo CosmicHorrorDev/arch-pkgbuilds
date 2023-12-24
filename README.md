@@ -25,3 +25,4 @@ functionality beyond just running the test suite.
 
 - [`cargo-auditable`](https://archlinux.org/packages/community/x86_64/cargo-auditable/) - **Merged into community 🎉**
 - [`cargo-insta`](https://archlinux.org/packages/extra/x86_64/cargo-insta/) - **Merged into extra 🎉**
+- [`samply`](https://archlinux.org/packages/extra/x86_64/samply/) - **Merged into extra 🎉**
