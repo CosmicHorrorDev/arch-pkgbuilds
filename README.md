@@ -19,6 +19,7 @@ functionality beyond just running the test suite.
 - [`cargo-pgo`](https://aur.archlinux.org/packages/cargo-pgo) - Cargo subcommand for optimizing Rust binaries with PGO and BOLT
 - [`inlyne`](https://aur.archlinux.org/packages/inlyne) and [`inlyne-bin`](https://aur.archlinux.org/packages/inlyne-bin) - A GPU powered, browserless, markdown viewer
 - [`metrics-observer`] - A text-based UI for observing metrics exported by the [`metrics-exporter-tcp`](https://docs.rs/metrics-exporter-tcp/0.9.0/metrics_exporter_tcp/) crate
+- [`ra-multiplex`](https://aur.archlinux.org/packages/ra-multiplex) - A client/server style program that can multiplex multiple `rust-analyzer` sessions together (think sharing the same r-a instance when you have two files in the same project open in two different vim editors)
 - [`regex-cli`](https://aur.archlinux.org/packages/regex-cli) - A command line tool debugging, ad hoc benchmarking and generating regular expressions for Rust's regex crate
 - [`to-html`](https://github.com/Aloso/to-html) - Convert terminal commands to formatted HTML
 
