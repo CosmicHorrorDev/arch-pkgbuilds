@@ -8,6 +8,6 @@ pkgbase = to-html
 	makedepends = cargo
 	depends = util-linux
 	source = to-html-0.1.5.tar.gz::https://github.com/Aloso/to-html/archive/v0.1.5.tar.gz
-	sha512sums = 44904aca5c2e09acda1b237ce6e20f033d909f76da6127737a01a3b802302278d2a84ce2946e8bd3f4d59dc2bb6287524b468d7a9d40406f192036fd813c3d4a
+	b2sums = c6da3d285c1594c23e3ea0c25963a4e11fc7beac579e0bb1e2a41c1a5198c49b900a534a3d8c03207284c07cb46e90fe5c0a4b001bd1cc4be2cb9c578e463748
 
 pkgname = to-html
