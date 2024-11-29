@@ -17,6 +17,7 @@ functionality beyond just running the test suite.
 - [`cargo-chef`](https://aur.archlinux.org/packages/cargo-chef) - Cargo plugin for managing docker layer caching with Rust projects
 - [`cargo-deadlinks`](https://aur.archlinux.org/packages/cargo-deadlinks) - Cargo plugin for checking your documentation for broken links
 - [`cargo-pgo`](https://aur.archlinux.org/packages/cargo-pgo) - Cargo subcommand for optimizing Rust binaries with PGO and BOLT
+- [`gimoji`](https://aur.archlinux.org/packages/gimoji) - Easily add emojis to your git commit messages 🎉
 - [`inlyne`](https://aur.archlinux.org/packages/inlyne) and [`inlyne-bin`](https://aur.archlinux.org/packages/inlyne-bin) - A GPU powered, browserless, markdown viewer
 - [`metrics-observer`] - A text-based UI for observing metrics exported by the [`metrics-exporter-tcp`](https://docs.rs/metrics-exporter-tcp/0.9.0/metrics_exporter_tcp/) crate
 - [`ra-multiplex`](https://aur.archlinux.org/packages/ra-multiplex) - A client/server style program that can multiplex multiple `rust-analyzer` sessions together (think sharing the same r-a instance when you have two files in the same project open in two different vim editors)
