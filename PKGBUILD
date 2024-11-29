@@ -2,7 +2,7 @@
 # Maintainer: Aloso <ludwig.stecher@gmx.de>
 
 pkgname=to-html
-pkgver=0.1.5
+pkgver=0.1.6
 pkgrel=1
 pkgdesc='Render a terminal with ANSI colors as HTML'
 arch=(x86_64)
@@ -11,7 +11,7 @@ license=(MIT)
 depends=(util-linux)
 makedepends=(cargo)
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha512sums=('44904aca5c2e09acda1b237ce6e20f033d909f76da6127737a01a3b802302278d2a84ce2946e8bd3f4d59dc2bb6287524b468d7a9d40406f192036fd813c3d4a')
+sha512sums=('c48e9cda4c5a62e275ce34a5f0e17d69b43fb1285cdcf97c49ea3619f6c897b9d1b3a19ba075c4db91b40db5775be60eca8c7480e506f13c122e63b0ae64b1d7')
 
 prepare() {
   cd "$srcdir/$pkgname-$pkgver"
