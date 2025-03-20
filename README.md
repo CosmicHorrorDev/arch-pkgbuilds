@@ -19,10 +19,11 @@ functionality beyond just running the test suite.
 - [`cargo-pgo`](https://aur.archlinux.org/packages/cargo-pgo) - Cargo subcommand for optimizing Rust binaries with PGO and BOLT
 - [`gimoji`](https://aur.archlinux.org/packages/gimoji) - Easily add emojis to your git commit messages 🎉
 - [`inlyne`](https://aur.archlinux.org/packages/inlyne) and [`inlyne-bin`](https://aur.archlinux.org/packages/inlyne-bin) - A GPU powered, browserless, markdown viewer
-- [`metrics-observer`] - A text-based UI for observing metrics exported by the [`metrics-exporter-tcp`](https://docs.rs/metrics-exporter-tcp/0.9.0/metrics_exporter_tcp/) crate
+- [`metrics-observer`](https://aur.archlinux.org/packages/metrics-observer) - A text-based UI for observing metrics exported by the [`metrics-exporter-tcp`](https://docs.rs/metrics-exporter-tcp/0.9.0/metrics_exporter_tcp/) crate
 - [`ra-multiplex`](https://aur.archlinux.org/packages/ra-multiplex) - A client/server style program that can multiplex multiple `rust-analyzer` sessions together (think sharing the same r-a instance when you have two files in the same project open in two different vim editors)
 - [`regex-cli`](https://aur.archlinux.org/packages/regex-cli) - A command line tool debugging, ad hoc benchmarking and generating regular expressions for Rust's regex crate
-- [`to-html`](https://github.com/Aloso/to-html) - Convert terminal commands to formatted HTML
+- [`to-html`](https://aur.archlinux.org/packages/to-html) - Convert terminal commands to formatted HTML
+- [`typeshare`](https://aur.archlinux.org/packages/regex-cli) - Command line tool for generating files with typeshare
 
 ## Previously Maintained
 
