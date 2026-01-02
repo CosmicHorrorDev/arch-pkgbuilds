@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> Moved to codeberg :)
+>
+> <https://codeberg.org/CosmicHarper/arch-pkgbuilds>
+
+---
+
 # Arch Packages
 
 My collection of Arch packages hosted in the [AUR](https://aur.archlinux.org)
